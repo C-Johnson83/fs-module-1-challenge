@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #1592ab;
+    color: #d9dcd6;
 }
 
 .header nav {
@@ -31,10 +31,6 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-/* .header div ul {
-    list-style-type: none;
-} */
 
 .header nav ul li {
     display: inline-block;
@@ -91,18 +87,24 @@ p {
     text-align: center;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization, .social-media-marketing, .online-reputation-management {
+.search-engine-optimization,
+.social-media-marketing,
+.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +113,15 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .social-media-marketing h2, .online-reputation-management h2 {
+.search-engine-optimization h2,
+.social-media-marketing h2,
+.online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

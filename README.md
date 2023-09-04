@@ -29,3 +29,7 @@ THEN I find a concise, descriptive title
 
 The end result should resemble the following image
 ![C](assets/images/01-html-css-git-homework-demo.png)
+
+# Deployment
+This is the link to the deployed page
+https://c-johnson83.github.io/fs-module-1-challenge/
